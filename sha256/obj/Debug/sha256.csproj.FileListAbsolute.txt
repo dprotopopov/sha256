@@ -1,0 +1,7 @@
+C:\Projects\sha256\sha256\bin\Debug\sha256.exe.config
+C:\Projects\sha256\sha256\bin\Debug\sha256.exe
+C:\Projects\sha256\sha256\bin\Debug\sha256.pdb
+C:\Projects\sha256\sha256\obj\Debug\sha256.csproj.CoreCompileInputs.cache
+C:\Projects\sha256\sha256\obj\Debug\sha256.exe
+C:\Projects\sha256\sha256\obj\Debug\sha256.pdb
+C:\Projects\sha256\sha256\obj\Debug\sha256.csprojResolveAssemblyReference.cache
